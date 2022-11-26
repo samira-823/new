@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Freehand', cursive;
+  font-size: 60px;
+  color: black;
+}
+
+h2 {
+  font-family: "Freehand", cursive;
+  font-size: 50px;
+  color: black;
+}
+
+.kk {
+  background-color: #371B58;
+}
+
+.sk {
+  width: 30%;
+}
+
+.sk img {
+  width: 250px;
+  height: 250px;
+}
+
+.ad img {
+  width: 100px;
+  height: 100px;
+}
+
+.bio {
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.ff {
+  background-color: #b0aac0;
+  padding: 50px 0 20px;
+}
+
+hr {
+  border: dotted #b2b2b2 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.xy {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.xy img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tt img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.tt {
+  text-align: right;
+  width: 55%;
+  margin: 100px auto 100px auto;
+}
+
+.pü {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.pü img {
+  width: 17%;
+  float: left;
+  margin-right: 30px;
+}
+
+p {
+  color: black;
+  line-height: 2;
+}
+
+.öö {
+  color: purple;
+}
+
+.öö:hover {
+  color: white;
+}

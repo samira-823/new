@@ -1,0 +1,25 @@
+body {
+  background-color: #be97dc;}
+
+
+hr {
+  border-style: dotted none none none;
+  width: 3%;
+  border-color: #8971d0;
+  border-width: 5px;
+}
+
+h1 {
+  color: #4f1c4c;
+  text-shadow: 1px 2px;
+}
+
+h3 {
+  color: #352961;
+}
+
+h4 {
+  color: #352961;
+
+}
+.clea:hover {background-color:#6b206a;}
